@@ -5,4 +5,4 @@ This is a fun project I made for catching domains several years ago. I had to de
 
 To use this PHP script you need to obtain access tokens from your Hetzner Account. 
 
-You should also contact their support desks to increase your server limit from 10 to 25 servers. Most whois endpoints will let you check records every 1-5 seconds. With 10 servers running you can check whois every 250ms.
+You should also contact their support desks to increase your server limit from 10 to 25 servers. Most whois endpoints will let you check domain status every 1-5 seconds. With 10 servers running you can check whois every 250ms.
